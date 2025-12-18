@@ -116,9 +116,9 @@ SOFTWARE.
 
 ## Author
 
-GitHub: https://github.com/your-handle  
-Email: you@example.com  
-Public contact: https://x.com/your-handle  
+GitHub: https://github.com/porches-mopeds  
+Email: porches.mopeds.0v@icloud.com  
+Public contact: https://x.com/LabrancheAmelie  
 
 ---
 
@@ -130,25 +130,25 @@ Network: Base Sepolia
 chainId (decimal): 84532  
 Explorer: https://sepolia.basescan.org  
 
-Contract #1 address:  
-your_address
+Contract "contract" address:  
+0x7e3abceb11f99e67d034154d125f80f4ecb2f376
 
 Deployment and verification:
-- https://sepolia.basescan.org/address/your_address
-- https://sepolia.basescan.org/your_address/0#code  
+- https://sepolia.basescan.org/address/0x7e3abceb11f99e67d034154d125f80f4ecb2f376
+- https://sepolia.basescan.org/0x7e3abceb11f99e67d034154d125f80f4ecb2f376/0#code  
 
-Contract #2 address:  
-your_address
-
-Deployment and verification:
-- https://sepolia.basescan.org/address/your_address
-- https://sepolia.basescan.org/your_address/0#code  
-
-Contract #3 address:  
-your_address
+Contract "structs" address:  
+0x101cc0b2d24b4b7dc08b0d1f2f98183677db65dc
 
 Deployment and verification:
-- https://sepolia.basescan.org/address/your_address
-- https://sepolia.basescan.org/your_address/0#code  
+- https://sepolia.basescan.org/address/0x101cc0b2d24b4b7dc08b0d1f2f98183677db65dc
+- https://sepolia.basescan.org/0x101cc0b2d24b4b7dc08b0d1f2f98183677db65dc/0#code  
+
+Contract "errors" address:  
+0x6b79056f627006b880ba0218c5d0596c208a3f51
+
+Deployment and verification:
+- https://sepolia.basescan.org/address/0x6b79056f627006b880ba0218c5d0596c208a3f51
+- https://sepolia.basescan.org/0x6b79056f627006b880ba0218c5d0596c208a3f51/0#code  
 
 These testnet deployments provide a controlled environment for validating Base tooling, account abstraction flows, and read-only onchain interactions prior to Base Mainnet usage.
