@@ -47,9 +47,9 @@ No transactions are sent. All interactions are strictly read-only.
 
 - contracts/  
   Solidity contracts deployed to Base Sepolia for testnet validation:
-  - your_contract.sol — minimal contract used to validate deployment and verification flow  
-  - your_contract.sol — simple stateful contract for interaction testing  
-  - your_contract.sol — lightweight contract used for read-only query validation  
+  - contract.sol — minimal smart contract that performs safe addition and subtraction with overflow and underflow checks  
+  - structs.sol — demonstrating struct usage, mappings, and basic CRUD operations for user-owned data
+  - errors.sol — lightweight contract demonstrating error handling, arithmetic logic, and safe array operations  
 
 - package.json  
   Dependency manifest including Coinbase SDKs and 2–5 repositories from the Base GitHub organization.
